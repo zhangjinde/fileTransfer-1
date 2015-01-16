@@ -72,7 +72,7 @@
 
 #include <tsunami-client.h>
 
-//#define DEBUG_RETX xxx // enable to show retransmit debug infos
+#define DEBUG_RETX xxx // enable to show retransmit debug infos
 
 /*------------------------------------------------------------------------
  * Prototypes for module-scope routines.
